@@ -1,4 +1,3 @@
-### Hi there 👋
 # Contact
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sperospera1225@gmaiil.com)](mailto:sperospera1225@gmail.com)
